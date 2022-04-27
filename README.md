@@ -1,4 +1,4 @@
-# Amazing Wallet 
+# Amazing Wallet :bank:
 
 Project created by Alex
 
